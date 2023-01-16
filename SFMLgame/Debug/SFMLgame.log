@@ -1,4 +1,0 @@
-﻿  SFMLgame.cpp
-E:\szkolda\C++projekty\SFMLgame\SFMLgame.cpp(54,28): warning C4244: "argument": konwersja z "double" do "float", możliwa utrata danych
-E:\szkolda\C++projekty\SFMLgame\SFMLgame.cpp(54,24): warning C4244: "argument": konwersja z "double" do "float", możliwa utrata danych
-  SFMLgame.vcxproj -> E:\szkolda\C++projekty\SFMLgame\Debug\SFMLgame.exe
